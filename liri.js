@@ -1,3 +1,9 @@
+//------------ make the spaces for the psuedo-code ---------------------
+
+/* make the areas specific. like variables, spotify, OMDB, BIT, do what it 
+ says. then you can make spaces for your logic and functions. */
+
+//----------------------------------------------------------------------
 //---------------------Variables----------------------------------------
 require("dotenv").config();
 var axios = require("axios");
